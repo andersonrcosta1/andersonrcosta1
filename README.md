@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning ... ReactJS with TypeScript
 - 💞️ I’m looking to collaborate on ... JavaScript
 - 📫 How to reach me anderson.rcosta1@gmail.com
+- 💍 Married to Cátia
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fac: ... I was a guitar player on a Rock band 🎸🤘
 
